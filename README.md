@@ -7,7 +7,7 @@ A CBZ packer for mangareader.cc
 
 <div align="center">
 
-![Preview 1.1](manga.png)
+![Preview 1.1](manga.jpg)
 
 </div>
 
